@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<meta name="robots" content="noindex,nofollow" />
+	<meta name="keywords" content="images, funny pictures, image host, image upload, image sharing, image resize" />
+	<meta name="description" content="Imgur is home to the web's most popular image content, curated in real time by a dedicated community through commenting, voting and sharing." />
+	<meta http-equiv="X-UA-Compatible" content="IE=9;IE=8;" />
+	<!--[if lt IE 9]>
+		<meta http-equiv="cache-control" content="no-cache">
+		<meta http-equiv="pragma" content="no-cache">
+	<![endif]-->
+	<title>	imgur: the simple 404 page</title>
+
+	<link rel="icon" href="//imgur.com/include/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="//imgur.com/include/favicon.ico" type="image/x-icon" />
+	<link rel="alternate" type="application/rss+xml" title="Imgur Gallery" href="http://feeds.feedburner.com/ImgurGallery?format=xml" />
+	<link rel="stylesheet" href="http://s.imgur.com/min//global_css?0" type="text/css" />
+		<style>
+		#footer { width: 610px !important; }
+		#voxel  { display: none }
+	</style>
+	<!--[if IE 9]><link rel="stylesheet" href="//imgur.com/include/css/ie-sucks.css?0" type="text/css" /><![endif]-->
+
+</head>
+<body>
+
+	<div class="nodisplay">
+		Imgur is home to the web's most popular image content, curated in real time by a dedicated community through commenting, voting and sharing.
+	</div>
+
+	<div id="clickable-logo">
+        <a href="//imgur.com/"><img src="http://s.imgur.com/images/imgur.gif" /></a>
+	</div>
+
+	<div id="text-content">
+		<h1>File not found!</h1>
+
+		<div class="textbox bigtext">
+			If you're looking for an image, then it's probably been deleted or
+			may not have existed at all. Bummer!
+		</div>
+
+		<div class="textbox bigtext nobottom">
+			If you're in the need for some funny or interesting images then you
+			might have a good time browsing through the
+			<a href="//imgur.com/gallery">Gallery</a>.
+		</div>
+	</div>
+
+
+			<div id="footer">
+				<div id="copyright">© 2011 Imgur, LLC. All rights reserved.</div>
+
+
+<div id="footer-links">
+
+	<a href="http://imgur.com/blog/" title="the simple imgur blog">blog </a>
+	<a href="http://imgur.userecho.com/" title="have something to say?">feedback</a>
+	<a href="http://imgur.com/stats/" title="view site statistics">site stats</a>
+	<a href="http://imgur.com/faq" title="have a question?">faq</a>
+	<a href="http://imgur.com/removalrequest" title="submit an image removal request">request deletion</a>
+	<a href="http://imgur.com/contact" title="contact imgur">contact</a>
+
+	<a href="http://imgur.com/tos" title="terms of service">terms</a>
+
+
+	<a href="http://api.imgur.com" title="the imgur API">api</a>
+</div>
+
+<div class="clear"></div>
+		</div>
+
+
+
+
+
+
+	<script type="text/javascript" src="http://s.imgur.com/min//global_js?12"></script>
+	<script type="text/javascript">
+		var Imgur = new ImgurBase({
+			host: 'imgur.com',
+			cdn_url: 'http://i.imgur.com',
+			signed: true,
+			auth: {"id":4,"isLoggedIn":true,"isPro":true,"hasAccess":true,"url":"Alan","high_quality":0,"album_privacy":0}
+
+		});
+	</script>
+
+
+
+			<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6671908-2']);
+			_gaq.push(['_setDomainName', 'none']);
+			_gaq.push(['_trackPageview']);
+			_gaq.push(['_trackPageLoadTime']);
+
+			(function() {
+			  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : '//www') + '.google-analytics.com/ga.js';
+			  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+
+		<script type='text/javascript'>
+			var _qevents = _qevents || [];
+			(function() {
+			var elem = document.createElement('script');
+			elem.src = (document.location.protocol == "https:" ? "https://secure" : "//edge") + ".quantserve.com/quant.js";
+			elem.async = true;
+			elem.type = "text/javascript";
+			var scpt = document.getElementsByTagName('script')[0];
+			scpt.parentNode.insertBefore(elem, scpt);
+			})();
+
+			_qevents.push({
+				qacct:"p-f8oruOqDFlMeI"
+			});
+		</script>
+
+		<noscript>
+			<div class="nodisplay">
+				<img src="//pixel.quantserve.com/pixel/p-f8oruOqDFlMeI.gif" border="0" height="1" width="1" alt="Quantcast"/>
+			</div>
+		</noscript>
+
+		<img class="nodisplay" border='0' hspace='0' vspace='0' width='1' height='1' src='//rc.rlcdn.com/291581.gif?n=1' />
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
