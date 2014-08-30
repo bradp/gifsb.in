@@ -111,6 +111,11 @@
     "src": "http://gifsb.in/agree/salute.gif",
     "thumb_src": "http://gifsb.in/agree/gb-thumb-salute.png"
   },
+  "agree/uh-huh.gif": { 
+    "name": "agree: uh huh",
+    "src": "http://gifsb.in/agree/uh-huh.gif",
+    "thumb_src": "http://gifsb.in/agree/gb-thumb-uh-huh.png"
+  },
   "agree/yup.gif": { 
     "name": "agree: yup",
     "src": "http://gifsb.in/agree/yup.gif",
@@ -120,6 +125,11 @@
     "name": "aha: aha",
     "src": "http://gifsb.in/aha/aha.gif",
     "thumb_src": "http://gifsb.in/aha/gb-thumb-aha.png"
+  },
+  "aha/that-is-bullshit.gif": { 
+    "name": "aha: that is bullshit",
+    "src": "http://gifsb.in/aha/that-is-bullshit.gif",
+    "thumb_src": "http://gifsb.in/aha/gb-thumb-that-is-bullshit.png"
   },
   "arnold/arnold-smile.gif": { 
     "name": "arnold: arnold smile",
@@ -770,6 +780,11 @@
     "name": "bring it: challenge accepted",
     "src": "http://gifsb.in/bring-it/challenge-accepted.gif",
     "thumb_src": "http://gifsb.in/bring-it/gb-thumb-challenge-accepted.png"
+  },
+  "bring-it/sup.gif": { 
+    "name": "bring it: sup",
+    "src": "http://gifsb.in/bring-it/sup.gif",
+    "thumb_src": "http://gifsb.in/bring-it/gb-thumb-sup.png"
   },
   "careful/indiana-jones-idol-sand-bag.gif": { 
     "name": "careful: indiana jones idol sand bag",
@@ -1531,6 +1546,11 @@
     "src": "http://gifsb.in/cats/cat-crying.gif",
     "thumb_src": "http://gifsb.in/cats/gb-thumb-cat-crying.png"
   },
+  "cats/cat-explosion.gif": { 
+    "name": "cats: cat explosion",
+    "src": "http://gifsb.in/cats/cat-explosion.gif",
+    "thumb_src": "http://gifsb.in/cats/gb-thumb-cat-explosion.png"
+  },
   "cats/cat-fail.gif": { 
     "name": "cats: cat fail",
     "src": "http://gifsb.in/cats/cat-fail.gif",
@@ -1615,6 +1635,11 @@
     "name": "cats: my food now",
     "src": "http://gifsb.in/cats/my-food-now.gif",
     "thumb_src": "http://gifsb.in/cats/gb-thumb-my-food-now.png"
+  },
+  "cats/only-dreams-now.gif": { 
+    "name": "cats: only dreams now",
+    "src": "http://gifsb.in/cats/only-dreams-now.gif",
+    "thumb_src": "http://gifsb.in/cats/gb-thumb-only-dreams-now.png"
   },
   "cats/shhhhhh.gif": { 
     "name": "cats: shhhhhh",
@@ -1986,15 +2011,35 @@
     "src": "http://gifsb.in/codes/break-the-computer.gif",
     "thumb_src": "http://gifsb.in/codes/gb-thumb-break-the-computer.png"
   },
+  "codes/cyber-space.gif": { 
+    "name": "codes: cyber space",
+    "src": "http://gifsb.in/codes/cyber-space.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-cyber-space.png"
+  },
   "codes/dont-forget-joey.gif": { 
     "name": "codes: dont forget joey",
     "src": "http://gifsb.in/codes/dont-forget-joey.gif",
     "thumb_src": "http://gifsb.in/codes/gb-thumb-dont-forget-joey.png"
   },
+  "codes/dropoff-that-disc.gif": { 
+    "name": "codes: dropoff that disc",
+    "src": "http://gifsb.in/codes/dropoff-that-disc.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-dropoff-that-disc.png"
+  },
+  "codes/floppy-discs.gif": { 
+    "name": "codes: floppy discs",
+    "src": "http://gifsb.in/codes/floppy-discs.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-floppy-discs.png"
+  },
   "codes/fly-you-are.jpg": { 
     "name": "codes: fly you are.jpg",
     "src": "http://gifsb.in/codes/fly-you-are.jpg",
     "thumb_src": "http://gifsb.in/codes/gb-thumb-fly-you-are.jpg"
+  },
+  "codes/hacking-in-progress.gif": { 
+    "name": "codes: hacking in progress",
+    "src": "http://gifsb.in/codes/hacking-in-progress.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-hacking-in-progress.png"
   },
   "codes/hacking.gif": { 
     "name": "codes: hacking",
@@ -3546,6 +3591,16 @@
     "src": "http://gifsb.in/contempt/fresh-prince-omg.gif",
     "thumb_src": "http://gifsb.in/contempt/gb-thumb-fresh-prince-omg.png"
   },
+  "contempt/honey-boo-boo.gif": { 
+    "name": "contempt: honey boo boo",
+    "src": "http://gifsb.in/contempt/honey-boo-boo.gif",
+    "thumb_src": "http://gifsb.in/contempt/gb-thumb-honey-boo-boo.png"
+  },
+  "contempt/honey-boo-boo2.gif": { 
+    "name": "contempt: honey boo boo2",
+    "src": "http://gifsb.in/contempt/honey-boo-boo2.gif",
+    "thumb_src": "http://gifsb.in/contempt/gb-thumb-honey-boo-boo2.png"
+  },
   "contempt/max-smart-confused.gif": { 
     "name": "contempt: max smart confused",
     "src": "http://gifsb.in/contempt/max-smart-confused.gif",
@@ -3721,6 +3776,16 @@
     "src": "http://gifsb.in/dancing/fish-weasel.gif",
     "thumb_src": "http://gifsb.in/dancing/gb-thumb-fish-weasel.png"
   },
+  "dancing/girl-in-room.gif": { 
+    "name": "dancing: girl in room",
+    "src": "http://gifsb.in/dancing/girl-in-room.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-girl-in-room.png"
+  },
+  "dancing/googly-daft-punk.gif": { 
+    "name": "dancing: googly daft punk",
+    "src": "http://gifsb.in/dancing/googly-daft-punk.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-googly-daft-punk.png"
+  },
   "dancing/grace-arms.gif": { 
     "name": "dancing: grace arms",
     "src": "http://gifsb.in/dancing/grace-arms.gif",
@@ -3751,6 +3816,11 @@
     "src": "http://gifsb.in/dancing/hammer-time.gif",
     "thumb_src": "http://gifsb.in/dancing/gb-thumb-hammer-time.png"
   },
+  "dancing/honey-badger-dance.gif": { 
+    "name": "dancing: honey badger dance",
+    "src": "http://gifsb.in/dancing/honey-badger-dance.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-honey-badger-dance.png"
+  },
   "dancing/honey-boo-boo-twerking.gif": { 
     "name": "dancing: honey boo boo twerking",
     "src": "http://gifsb.in/dancing/honey-boo-boo-twerking.gif",
@@ -3761,6 +3831,11 @@
     "src": "http://gifsb.in/dancing/mad-men.gif",
     "thumb_src": "http://gifsb.in/dancing/gb-thumb-mad-men.png"
   },
+  "dancing/move-your-body.gif": { 
+    "name": "dancing: move your body",
+    "src": "http://gifsb.in/dancing/move-your-body.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-move-your-body.png"
+  },
   "dancing/mrrogers.gif": { 
     "name": "dancing: mrrogers",
     "src": "http://gifsb.in/dancing/mrrogers.gif",
@@ -3770,6 +3845,11 @@
     "name": "dancing: napoleon dance",
     "src": "http://gifsb.in/dancing/napoleon-dance.gif",
     "thumb_src": "http://gifsb.in/dancing/gb-thumb-napoleon-dance.png"
+  },
+  "dancing/nigel-single-ladies.gif": { 
+    "name": "dancing: nigel single ladies",
+    "src": "http://gifsb.in/dancing/nigel-single-ladies.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-nigel-single-ladies.png"
   },
   "dancing/psycho.gif": { 
     "name": "dancing: psycho",
@@ -6371,6 +6451,11 @@
     "src": "http://gifsb.in/fail/fixed-it.gif",
     "thumb_src": "http://gifsb.in/fail/gb-thumb-fixed-it.png"
   },
+  "fail/gun-toting.gif": { 
+    "name": "fail: gun toting",
+    "src": "http://gifsb.in/fail/gun-toting.gif",
+    "thumb_src": "http://gifsb.in/fail/gb-thumb-gun-toting.png"
+  },
   "fail/horse-fence-fail.gif": { 
     "name": "fail: horse fence fail",
     "src": "http://gifsb.in/fail/horse-fence-fail.gif",
@@ -6445,6 +6530,11 @@
     "name": "food: burger trex",
     "src": "http://gifsb.in/food/burger-trex.gif",
     "thumb_src": "http://gifsb.in/food/gb-thumb-burger-trex.png"
+  },
+  "food/chompy.gif": { 
+    "name": "food: chompy",
+    "src": "http://gifsb.in/food/chompy.gif",
+    "thumb_src": "http://gifsb.in/food/gb-thumb-chompy.png"
   },
   "food/dog-on-floor-eating.gif": { 
     "name": "food: dog on floor eating",
@@ -6815,6 +6905,16 @@
     "name": "happy: IBpzrwS",
     "src": "http://gifsb.in/happy/IBpzrwS.gif",
     "thumb_src": "http://gifsb.in/happy/gb-thumb-IBpzrwS.png"
+  },
+  "happy/bunny-smile.gif": { 
+    "name": "happy: bunny smile",
+    "src": "http://gifsb.in/happy/bunny-smile.gif",
+    "thumb_src": "http://gifsb.in/happy/gb-thumb-bunny-smile.png"
+  },
+  "happy/capt-amer-smile.gif": { 
+    "name": "happy: capt amer smile",
+    "src": "http://gifsb.in/happy/capt-amer-smile.gif",
+    "thumb_src": "http://gifsb.in/happy/gb-thumb-capt-amer-smile.png"
   },
   "happy/excited.gif": { 
     "name": "happy: excited",
@@ -7271,6 +7371,11 @@
     "src": "http://gifsb.in/impressed/head-spin.gif",
     "thumb_src": "http://gifsb.in/impressed/gb-thumb-head-spin.png"
   },
+  "impressed/hmm.gif": { 
+    "name": "impressed: hmm",
+    "src": "http://gifsb.in/impressed/hmm.gif",
+    "thumb_src": "http://gifsb.in/impressed/gb-thumb-hmm.png"
+  },
   "impressed/ill-show-you.gif": { 
     "name": "impressed: ill show you",
     "src": "http://gifsb.in/impressed/ill-show-you.gif",
@@ -7471,10 +7576,20 @@
     "src": "http://gifsb.in/lol/44-KRS-One-LOL.gif",
     "thumb_src": "http://gifsb.in/lol/gb-thumb-44-KRS-One-LOL.png"
   },
+  "lol/bah-dum-psh.gif": { 
+    "name": "lol: bah dum psh",
+    "src": "http://gifsb.in/lol/bah-dum-psh.gif",
+    "thumb_src": "http://gifsb.in/lol/gb-thumb-bah-dum-psh.png"
+  },
   "lol/fancy-heheheh.gif": { 
     "name": "lol: fancy heheheh",
     "src": "http://gifsb.in/lol/fancy-heheheh.gif",
     "thumb_src": "http://gifsb.in/lol/gb-thumb-fancy-heheheh.png"
+  },
+  "lol/forced-laughter.gif": { 
+    "name": "lol: forced laughter",
+    "src": "http://gifsb.in/lol/forced-laughter.gif",
+    "thumb_src": "http://gifsb.in/lol/gb-thumb-forced-laughter.png"
   },
   "lol/harry-lol.gif": { 
     "name": "lol: harry lol",
@@ -7691,15 +7806,40 @@
     "src": "http://gifsb.in/mind-blown/mind-blown3.gif",
     "thumb_src": "http://gifsb.in/mind-blown/gb-thumb-mind-blown3.png"
   },
+  "mind-blown/whoa-science.gif": { 
+    "name": "mind blown: whoa science",
+    "src": "http://gifsb.in/mind-blown/whoa-science.gif",
+    "thumb_src": "http://gifsb.in/mind-blown/gb-thumb-whoa-science.png"
+  },
   "misc/cyberpunk.gif": { 
     "name": "misc: cyberpunk",
     "src": "http://gifsb.in/misc/cyberpunk.gif",
     "thumb_src": "http://gifsb.in/misc/gb-thumb-cyberpunk.png"
   },
+  "misc/dino-phone.gif": { 
+    "name": "misc: dino phone",
+    "src": "http://gifsb.in/misc/dino-phone.gif",
+    "thumb_src": "http://gifsb.in/misc/gb-thumb-dino-phone.png"
+  },
+  "misc/dont-fuck-with-my-beard.gif": { 
+    "name": "misc: dont fuck with my beard",
+    "src": "http://gifsb.in/misc/dont-fuck-with-my-beard.gif",
+    "thumb_src": "http://gifsb.in/misc/gb-thumb-dont-fuck-with-my-beard.png"
+  },
   "misc/pig-mouth.gif": { 
     "name": "misc: pig mouth",
     "src": "http://gifsb.in/misc/pig-mouth.gif",
     "thumb_src": "http://gifsb.in/misc/gb-thumb-pig-mouth.png"
+  },
+  "misc/top-gun.gif": { 
+    "name": "misc: top gun",
+    "src": "http://gifsb.in/misc/top-gun.gif",
+    "thumb_src": "http://gifsb.in/misc/gb-thumb-top-gun.png"
+  },
+  "misc/weird-goop.gif": { 
+    "name": "misc: weird goop",
+    "src": "http://gifsb.in/misc/weird-goop.gif",
+    "thumb_src": "http://gifsb.in/misc/gb-thumb-weird-goop.png"
   },
   "monty-python/killer-rabbit.gif": { 
     "name": "monty python: killer rabbit",
@@ -8041,6 +8181,11 @@
     "src": "http://gifsb.in/oh-shit/flailing-arms-3.gif",
     "thumb_src": "http://gifsb.in/oh-shit/gb-thumb-flailing-arms-3.png"
   },
+  "oh-shit/fuck-big-bird.gif": { 
+    "name": "oh shit: fuck big bird",
+    "src": "http://gifsb.in/oh-shit/fuck-big-bird.gif",
+    "thumb_src": "http://gifsb.in/oh-shit/gb-thumb-fuck-big-bird.png"
+  },
   "oh-shit/hair-blowing-power-goes-out.gif": { 
     "name": "oh shit: hair blowing power goes out",
     "src": "http://gifsb.in/oh-shit/hair-blowing-power-goes-out.gif",
@@ -8210,6 +8355,11 @@
     "name": "parbs: thumbs up",
     "src": "http://gifsb.in/parbs/thumbs-up.gif",
     "thumb_src": "http://gifsb.in/parbs/gb-thumb-thumbs-up.png"
+  },
+  "parbs/thumbs.gif": { 
+    "name": "parbs: thumbs",
+    "src": "http://gifsb.in/parbs/thumbs.gif",
+    "thumb_src": "http://gifsb.in/parbs/gb-thumb-thumbs.png"
   },
   "parenting/nap-time.gif": { 
     "name": "parenting: nap time",
@@ -8936,6 +9086,11 @@
     "src": "http://gifsb.in/thumbs-up/chuck-norris.gif",
     "thumb_src": "http://gifsb.in/thumbs-up/gb-thumb-chuck-norris.png"
   },
+  "thumbs-up/daft-googly.gif": { 
+    "name": "thumbs up: daft googly",
+    "src": "http://gifsb.in/thumbs-up/daft-googly.gif",
+    "thumb_src": "http://gifsb.in/thumbs-up/gb-thumb-daft-googly.png"
+  },
   "thumbs-up/dancing.gif": { 
     "name": "thumbs up: dancing",
     "src": "http://gifsb.in/thumbs-up/dancing.gif",
@@ -8980,6 +9135,11 @@
     "name": "thumbs up: thumbs up",
     "src": "http://gifsb.in/thumbs-up/thumbs-up.gif",
     "thumb_src": "http://gifsb.in/thumbs-up/gb-thumb-thumbs-up.png"
+  },
+  "tldr/batman.gif": { 
+    "name": "tldr: batman",
+    "src": "http://gifsb.in/tldr/batman.gif",
+    "thumb_src": "http://gifsb.in/tldr/gb-thumb-batman.png"
   },
   "tricky/indiana-jones-idol-sand-bag.gif": { 
     "name": "tricky: indiana jones idol sand bag",
