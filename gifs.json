@@ -8781,6 +8781,11 @@
     "src": "http://gifsb.in/silly-animals/breadcrubms.gif",
     "thumb_src": "http://gifsb.in/silly-animals/gb-thumb-breadcrubms.png"
   },
+  "silly-animals/dog-cant-get-ball.gif": { 
+    "name": "silly animals: dog cant get ball",
+    "src": "http://gifsb.in/silly-animals/dog-cant-get-ball.gif",
+    "thumb_src": "http://gifsb.in/silly-animals/gb-thumb-dog-cant-get-ball.png"
+  },
   "silly-animals/fancycat.gif": { 
     "name": "silly animals: fancycat",
     "src": "http://gifsb.in/silly-animals/fancycat.gif",
@@ -9231,6 +9236,11 @@
     "src": "http://gifsb.in/typing/jim-carrey.gif",
     "thumb_src": "http://gifsb.in/typing/gb-thumb-jim-carrey.png"
   },
+  "unsorted_gifs/*": { 
+    "name": "unsorted gifs: *",
+    "src": "http://gifsb.in/unsorted_gifs/*",
+    "thumb_src": "http://gifsb.in/unsorted_gifs/gb-thumb-*"
+  },
   "upset/DataBSOD.gif": { 
     "name": "upset: DataBSOD",
     "src": "http://gifsb.in/upset/DataBSOD.gif",
@@ -9436,6 +9446,11 @@
     "src": "http://gifsb.in/wds/comic-sans.png",
     "thumb_src": "http://gifsb.in/wds/gb-thumb-comic-sans.png"
   },
+  "wds/corey-and-parbs.jpg": { 
+    "name": "wds: corey and parbs.jpg",
+    "src": "http://gifsb.in/wds/corey-and-parbs.jpg",
+    "thumb_src": "http://gifsb.in/wds/gb-thumb-corey-and-parbs.jpg"
+  },
   "wds/corey-mustache.png": { 
     "name": "wds: corey mustache.png",
     "src": "http://gifsb.in/wds/corey-mustache.png",
@@ -9455,6 +9470,11 @@
     "name": "wds: dre says no",
     "src": "http://gifsb.in/wds/dre-says-no.gif",
     "thumb_src": "http://gifsb.in/wds/gb-thumb-dre-says-no.png"
+  },
+  "wds/dusty-poke-parbs.png": { 
+    "name": "wds: dusty poke parbs.png",
+    "src": "http://gifsb.in/wds/dusty-poke-parbs.png",
+    "thumb_src": "http://gifsb.in/wds/gb-thumb-dusty-poke-parbs.png"
   },
   "wds/dusty-pug.gif": { 
     "name": "wds: dusty pug",
