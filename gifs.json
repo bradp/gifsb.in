@@ -7991,11 +7991,6 @@
     "src": "http://gifsb.in/lol/laugh-then-sad.gif",
     "thumb_src": "http://gifsb.in/lol/gb-thumb-laugh-then-sad.png"
   },
-  "lol/maths.jpg": { 
-    "name": "lol: maths.jpg",
-    "src": "http://gifsb.in/lol/maths.jpg",
-    "thumb_src": "http://gifsb.in/lol/gb-thumb-maths.jpg"
-  },
   "lol/milk-out-noze.gif": { 
     "name": "lol: milk out noze",
     "src": "http://gifsb.in/lol/milk-out-noze.gif",
@@ -8021,10 +8016,10 @@
     "src": "http://gifsb.in/lol/uncomfortable-laugh.gif",
     "thumb_src": "http://gifsb.in/lol/gb-thumb-uncomfortable-laugh.png"
   },
-  "lol/whaaat.jpg": { 
-    "name": "lol: whaaat.jpg",
-    "src": "http://gifsb.in/lol/whaaat.jpg",
-    "thumb_src": "http://gifsb.in/lol/gb-thumb-whaaat.jpg"
+  "lol/whaaat.gif": { 
+    "name": "lol: whaaat",
+    "src": "http://gifsb.in/lol/whaaat.gif",
+    "thumb_src": "http://gifsb.in/lol/gb-thumb-whaaat.png"
   },
   "lolwat/anteater-scares-kangaroo.gif": { 
     "name": "lolwat: anteater scares kangaroo",
@@ -8120,6 +8115,11 @@
     "name": "lolwat: look to side",
     "src": "http://gifsb.in/lolwat/look-to-side.gif",
     "thumb_src": "http://gifsb.in/lolwat/gb-thumb-look-to-side.png"
+  },
+  "lolwat/maths.gif": { 
+    "name": "lolwat: maths",
+    "src": "http://gifsb.in/lolwat/maths.gif",
+    "thumb_src": "http://gifsb.in/lolwat/gb-thumb-maths.png"
   },
   "lolwat/pocket-sand.gif": { 
     "name": "lolwat: pocket sand",
@@ -8330,6 +8330,11 @@
     "name": "misc reactions: i would like to do that please",
     "src": "http://gifsb.in/misc-reactions/i-would-like-to-do-that-please.gif",
     "thumb_src": "http://gifsb.in/misc-reactions/gb-thumb-i-would-like-to-do-that-please.png"
+  },
+  "misc-reactions/looking-up.gif": { 
+    "name": "misc reactions: looking up",
+    "src": "http://gifsb.in/misc-reactions/looking-up.gif",
+    "thumb_src": "http://gifsb.in/misc-reactions/gb-thumb-looking-up.png"
   },
   "misc-reactions/my-body-is-ready.gif": { 
     "name": "misc reactions: my body is ready",
