@@ -1126,6 +1126,11 @@
     "src": "http://gifsb.in/codes/dropoff-that-disc.gif",
     "thumb_src": "http://gifsb.in/codes/gb-thumb-dropoff-that-disc.png"
   },
+  "codes/floating-computers.gif": { 
+    "name": "codes: floating computers",
+    "src": "http://gifsb.in/codes/floating-computers.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-floating-computers.png"
+  },
   "codes/floppy-discs.gif": { 
     "name": "codes: floppy discs",
     "src": "http://gifsb.in/codes/floppy-discs.gif",
@@ -1135,6 +1140,11 @@
     "name": "codes: fly you are.jpg",
     "src": "http://gifsb.in/codes/fly-you-are.jpg",
     "thumb_src": "http://gifsb.in/codes/gb-thumb-fly-you-are.jpg"
+  },
+  "codes/fuck-ie.gif": { 
+    "name": "codes: fuck ie",
+    "src": "http://gifsb.in/codes/fuck-ie.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-fuck-ie.png"
   },
   "codes/hacking-in-progress.gif": { 
     "name": "codes: hacking in progress",
@@ -3851,6 +3861,11 @@
     "src": "http://gifsb.in/misc/screams-internally.gif",
     "thumb_src": "http://gifsb.in/misc/gb-thumb-screams-internally.png"
   },
+  "misc/spiders-are-gross.gif": { 
+    "name": "misc: spiders are gross",
+    "src": "http://gifsb.in/misc/spiders-are-gross.gif",
+    "thumb_src": "http://gifsb.in/misc/gb-thumb-spiders-are-gross.png"
+  },
   "misc/sword-fighting.gif": { 
     "name": "misc: sword fighting",
     "src": "http://gifsb.in/misc/sword-fighting.gif",
@@ -3891,10 +3906,20 @@
     "src": "http://gifsb.in/misc-reactions/ewww.gif",
     "thumb_src": "http://gifsb.in/misc-reactions/gb-thumb-ewww.png"
   },
+  "misc-reactions/fantasy-vs-reality.gif": { 
+    "name": "misc reactions: fantasy vs reality",
+    "src": "http://gifsb.in/misc-reactions/fantasy-vs-reality.gif",
+    "thumb_src": "http://gifsb.in/misc-reactions/gb-thumb-fantasy-vs-reality.png"
+  },
   "misc-reactions/go-on.gif": { 
     "name": "misc reactions: go on",
     "src": "http://gifsb.in/misc-reactions/go-on.gif",
     "thumb_src": "http://gifsb.in/misc-reactions/gb-thumb-go-on.png"
+  },
+  "misc-reactions/good-new-everyone.gif": { 
+    "name": "misc reactions: good new everyone",
+    "src": "http://gifsb.in/misc-reactions/good-new-everyone.gif",
+    "thumb_src": "http://gifsb.in/misc-reactions/gb-thumb-good-new-everyone.png"
   },
   "misc-reactions/gracious.gif": { 
     "name": "misc reactions: gracious",
@@ -5721,10 +5746,25 @@
     "src": "http://gifsb.in/vhs/dino-phone.gif",
     "thumb_src": "http://gifsb.in/vhs/gb-thumb-dino-phone.png"
   },
+  "vhs/dont-talk-to-strangers.gif": { 
+    "name": "vhs: dont talk to strangers",
+    "src": "http://gifsb.in/vhs/dont-talk-to-strangers.gif",
+    "thumb_src": "http://gifsb.in/vhs/gb-thumb-dont-talk-to-strangers.png"
+  },
   "vhs/embarrasment.gif": { 
     "name": "vhs: embarrasment",
     "src": "http://gifsb.in/vhs/embarrasment.gif",
     "thumb_src": "http://gifsb.in/vhs/gb-thumb-embarrasment.png"
+  },
+  "vhs/gold-kicj.gif": { 
+    "name": "vhs: gold kicj",
+    "src": "http://gifsb.in/vhs/gold-kicj.gif",
+    "thumb_src": "http://gifsb.in/vhs/gb-thumb-gold-kicj.png"
+  },
+  "vhs/i-see-you.gif": { 
+    "name": "vhs: i see you",
+    "src": "http://gifsb.in/vhs/i-see-you.gif",
+    "thumb_src": "http://gifsb.in/vhs/gb-thumb-i-see-you.png"
   },
   "vhs/internet-uses.png": { 
     "name": "vhs: internet uses.png",
