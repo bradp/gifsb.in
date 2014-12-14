@@ -1171,10 +1171,25 @@
     "src": "http://gifsb.in/codes/mess-with-the-best.gif",
     "thumb_src": "http://gifsb.in/codes/gb-thumb-mess-with-the-best.png"
   },
+  "codes/order-yours-today.gif": { 
+    "name": "codes: order yours today",
+    "src": "http://gifsb.in/codes/order-yours-today.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-order-yours-today.png"
+  },
+  "codes/quick-sort.gif": { 
+    "name": "codes: quick sort",
+    "src": "http://gifsb.in/codes/quick-sort.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-quick-sort.png"
+  },
   "codes/skateboard-hackers.gif": { 
     "name": "codes: skateboard hackers",
     "src": "http://gifsb.in/codes/skateboard-hackers.gif",
     "thumb_src": "http://gifsb.in/codes/gb-thumb-skateboard-hackers.png"
+  },
+  "codes/skelton-cds.gif": { 
+    "name": "codes: skelton cds",
+    "src": "http://gifsb.in/codes/skelton-cds.gif",
+    "thumb_src": "http://gifsb.in/codes/gb-thumb-skelton-cds.png"
   },
   "codes/surfing-time.gif": { 
     "name": "codes: surfing time",
@@ -4006,6 +4021,11 @@
     "src": "http://gifsb.in/misc-reactions/shut-it-down.gif",
     "thumb_src": "http://gifsb.in/misc-reactions/gb-thumb-shut-it-down.png"
   },
+  "misc-reactions/slap-the-shit-out-of-you.gif": { 
+    "name": "misc reactions: slap the shit out of you",
+    "src": "http://gifsb.in/misc-reactions/slap-the-shit-out-of-you.gif",
+    "thumb_src": "http://gifsb.in/misc-reactions/gb-thumb-slap-the-shit-out-of-you.png"
+  },
   "misc-reactions/someone-to-hangout.gif": { 
     "name": "misc reactions: someone to hangout",
     "src": "http://gifsb.in/misc-reactions/someone-to-hangout.gif",
@@ -5955,6 +5975,11 @@
     "name": "wds: justinrocks",
     "src": "http://gifsb.in/wds/justinrocks.gif",
     "thumb_src": "http://gifsb.in/wds/gb-thumb-justinrocks.png"
+  },
+  "wds/love.png": { 
+    "name": "wds: love.png",
+    "src": "http://gifsb.in/wds/love.png",
+    "thumb_src": "http://gifsb.in/wds/gb-thumb-love.png"
   },
   "wds/parbs-yolo.gif": { 
     "name": "wds: parbs yolo",
