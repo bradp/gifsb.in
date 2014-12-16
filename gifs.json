@@ -6316,6 +6316,11 @@
     "src": "http://gifsb.in/wtf/cheech-wtf.gif",
     "thumb_src": "http://gifsb.in/wtf/gb-thumb-cheech-wtf.png"
   },
+  "wtf/chicken-lady.gif": { 
+    "name": "wtf: chicken lady",
+    "src": "http://gifsb.in/wtf/chicken-lady.gif",
+    "thumb_src": "http://gifsb.in/wtf/gb-thumb-chicken-lady.png"
+  },
   "wtf/dali-eyes.gif": { 
     "name": "wtf: dali eyes",
     "src": "http://gifsb.in/wtf/dali-eyes.gif",
