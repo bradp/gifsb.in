@@ -191,6 +191,11 @@
     "src": "http://gifsb.in/awkward/shame-cube.jpg",
     "thumb_src": "http://gifsb.in/awkward/gb-thumb-shame-cube.jpg"
   },
+  "awkward/starcraft-highfive.gif": { 
+    "name": "awkward: starcraft highfive",
+    "src": "http://gifsb.in/awkward/starcraft-highfive.gif",
+    "thumb_src": "http://gifsb.in/awkward/gb-thumb-starcraft-highfive.png"
+  },
   "awkward/white-guys.gif": { 
     "name": "awkward: white guys",
     "src": "http://gifsb.in/awkward/white-guys.gif",
@@ -4365,6 +4370,11 @@
     "name": "no: polite",
     "src": "http://gifsb.in/no/polite.gif",
     "thumb_src": "http://gifsb.in/no/gb-thumb-polite.png"
+  },
+  "no/rangers.gif": { 
+    "name": "no: rangers",
+    "src": "http://gifsb.in/no/rangers.gif",
+    "thumb_src": "http://gifsb.in/no/gb-thumb-rangers.png"
   },
   "no/really-hahah-no.gif": { 
     "name": "no: really hahah no",
