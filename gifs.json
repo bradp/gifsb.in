@@ -521,6 +521,11 @@
     "src": "http://gifsb.in/cats/cat-fish.gif",
     "thumb_src": "http://gifsb.in/cats/gb-thumb-cat-fish.png"
   },
+  "cats/cat-in-shirt.gif": { 
+    "name": "cats: cat in shirt",
+    "src": "http://gifsb.in/cats/cat-in-shirt.gif",
+    "thumb_src": "http://gifsb.in/cats/gb-thumb-cat-in-shirt.png"
+  },
   "cats/cat-loop.gif": { 
     "name": "cats: cat loop",
     "src": "http://gifsb.in/cats/cat-loop.gif",
@@ -720,6 +725,11 @@
     "name": "cats: surfing cat",
     "src": "http://gifsb.in/cats/surfing-cat.gif",
     "thumb_src": "http://gifsb.in/cats/gb-thumb-surfing-cat.png"
+  },
+  "cats/tail-bite.gif": { 
+    "name": "cats: tail bite",
+    "src": "http://gifsb.in/cats/tail-bite.gif",
+    "thumb_src": "http://gifsb.in/cats/gb-thumb-tail-bite.png"
   },
   "cats/tail-slap.gif": { 
     "name": "cats: tail slap",
@@ -5800,6 +5810,16 @@
     "name": "vhs: internet uses.png",
     "src": "http://gifsb.in/vhs/internet-uses.png",
     "thumb_src": "http://gifsb.in/vhs/gb-thumb-internet-uses.png"
+  },
+  "vhs/static.gif": { 
+    "name": "vhs: static",
+    "src": "http://gifsb.in/vhs/static.gif",
+    "thumb_src": "http://gifsb.in/vhs/gb-thumb-static.png"
+  },
+  "vhs/the-nightmare.gif": { 
+    "name": "vhs: the nightmare",
+    "src": "http://gifsb.in/vhs/the-nightmare.gif",
+    "thumb_src": "http://gifsb.in/vhs/gb-thumb-the-nightmare.png"
   },
   "vhs/top-gun.gif": { 
     "name": "vhs: top gun",
