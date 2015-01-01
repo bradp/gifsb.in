@@ -1406,6 +1406,16 @@
     "src": "http://gifsb.in/dancing/boymeetsworld.gif",
     "thumb_src": "http://gifsb.in/dancing/gb-thumb-boymeetsworld.png"
   },
+  "dancing/butt-shake.gif": { 
+    "name": "dancing: butt shake",
+    "src": "http://gifsb.in/dancing/butt-shake.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-butt-shake.png"
+  },
+  "dancing/carlton.gif": { 
+    "name": "dancing: carlton",
+    "src": "http://gifsb.in/dancing/carlton.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-carlton.png"
+  },
   "dancing/charlie-butt.gif": { 
     "name": "dancing: charlie butt",
     "src": "http://gifsb.in/dancing/charlie-butt.gif",
@@ -1435,6 +1445,11 @@
     "name": "dancing: daft punk",
     "src": "http://gifsb.in/dancing/daft-punk.gif",
     "thumb_src": "http://gifsb.in/dancing/gb-thumb-daft-punk.png"
+  },
+  "dancing/dance copy.gif": { 
+    "name": "dancing: dance copy",
+    "src": "http://gifsb.in/dancing/dance copy.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-dance copy.png"
   },
   "dancing/dance.gif": { 
     "name": "dancing: dance",
@@ -4755,6 +4770,11 @@
     "name": "pizza: pizza walk",
     "src": "http://gifsb.in/pizza/pizza-walk.gif",
     "thumb_src": "http://gifsb.in/pizza/gb-thumb-pizza-walk.png"
+  },
+  "pizza/pizzadogs.gif": { 
+    "name": "pizza: pizzadogs",
+    "src": "http://gifsb.in/pizza/pizzadogs.gif",
+    "thumb_src": "http://gifsb.in/pizza/gb-thumb-pizzadogs.png"
   },
   "pizza/real.gif": { 
     "name": "pizza: real",
