@@ -1521,6 +1521,11 @@
     "src": "http://gifsb.in/dancing/groot-grooving.gif",
     "thumb_src": "http://gifsb.in/dancing/gb-thumb-groot-grooving.png"
   },
+  "dancing/groovy.gif": { 
+    "name": "dancing: groovy",
+    "src": "http://gifsb.in/dancing/groovy.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-groovy.png"
+  },
   "dancing/gwbush-feelin-it.gif": { 
     "name": "dancing: gwbush feelin it",
     "src": "http://gifsb.in/dancing/gwbush-feelin-it.gif",
@@ -1550,6 +1555,11 @@
     "name": "dancing: kid jumping",
     "src": "http://gifsb.in/dancing/kid-jumping.gif",
     "thumb_src": "http://gifsb.in/dancing/gb-thumb-kid-jumping.png"
+  },
+  "dancing/leoparty.gif": { 
+    "name": "dancing: leoparty",
+    "src": "http://gifsb.in/dancing/leoparty.gif",
+    "thumb_src": "http://gifsb.in/dancing/gb-thumb-leoparty.png"
   },
   "dancing/mad-men.gif": { 
     "name": "dancing: mad men",
@@ -1866,6 +1876,11 @@
     "src": "http://gifsb.in/doge/fancy.jpg",
     "thumb_src": "http://gifsb.in/doge/gb-thumb-fancy.jpg"
   },
+  "doge/laptop.jpg": { 
+    "name": "doge: laptop.jpg",
+    "src": "http://gifsb.in/doge/laptop.jpg",
+    "thumb_src": "http://gifsb.in/doge/gb-thumb-laptop.jpg"
+  },
   "doge/stylish-doge.gif": { 
     "name": "doge: stylish doge",
     "src": "http://gifsb.in/doge/stylish-doge.gif",
@@ -1875,6 +1890,11 @@
     "name": "doge: such logo",
     "src": "http://gifsb.in/doge/such-logo.gif",
     "thumb_src": "http://gifsb.in/doge/gb-thumb-such-logo.png"
+  },
+  "doge/wow-cooking.gif": { 
+    "name": "doge: wow cooking",
+    "src": "http://gifsb.in/doge/wow-cooking.gif",
+    "thumb_src": "http://gifsb.in/doge/gb-thumb-wow-cooking.png"
   },
   "downton-abbey/carson-hughes-hands.gif": { 
     "name": "downton abbey: carson hughes hands",
@@ -3400,6 +3420,11 @@
     "name": "jpg: guinness brilliant.jpg",
     "src": "http://gifsb.in/jpg/guinness-brilliant.jpg",
     "thumb_src": "http://gifsb.in/jpg/gb-thumb-guinness-brilliant.jpg"
+  },
+  "jpg/leftshark-transparent.jpg": { 
+    "name": "jpg: leftshark transparent.jpg",
+    "src": "http://gifsb.in/jpg/leftshark-transparent.jpg",
+    "thumb_src": "http://gifsb.in/jpg/gb-thumb-leftshark-transparent.jpg"
   },
   "jpg/noice.jpg": { 
     "name": "jpg: noice.jpg",
@@ -5131,10 +5156,20 @@
     "src": "http://gifsb.in/silly-animals/breadcrubms.gif",
     "thumb_src": "http://gifsb.in/silly-animals/gb-thumb-breadcrubms.png"
   },
+  "silly-animals/bunnies-in-cups.gif": { 
+    "name": "silly animals: bunnies in cups",
+    "src": "http://gifsb.in/silly-animals/bunnies-in-cups.gif",
+    "thumb_src": "http://gifsb.in/silly-animals/gb-thumb-bunnies-in-cups.png"
+  },
   "silly-animals/corgi-pumpkin.gif": { 
     "name": "silly animals: corgi pumpkin",
     "src": "http://gifsb.in/silly-animals/corgi-pumpkin.gif",
     "thumb_src": "http://gifsb.in/silly-animals/gb-thumb-corgi-pumpkin.png"
+  },
+  "silly-animals/cow-hair.gif": { 
+    "name": "silly animals: cow hair",
+    "src": "http://gifsb.in/silly-animals/cow-hair.gif",
+    "thumb_src": "http://gifsb.in/silly-animals/gb-thumb-cow-hair.png"
   },
   "silly-animals/dog-attack.gif": { 
     "name": "silly animals: dog attack",
@@ -5225,6 +5260,11 @@
     "name": "silly animals: nope duck",
     "src": "http://gifsb.in/silly-animals/nope-duck.gif",
     "thumb_src": "http://gifsb.in/silly-animals/gb-thumb-nope-duck.png"
+  },
+  "silly-animals/police-dog.gif": { 
+    "name": "silly animals: police dog",
+    "src": "http://gifsb.in/silly-animals/police-dog.gif",
+    "thumb_src": "http://gifsb.in/silly-animals/gb-thumb-police-dog.png"
   },
   "silly-animals/poopin-cheetah.gif": { 
     "name": "silly animals: poopin cheetah",
@@ -5831,6 +5871,11 @@
     "src": "http://gifsb.in/vhs/gold-kicj.gif",
     "thumb_src": "http://gifsb.in/vhs/gb-thumb-gold-kicj.png"
   },
+  "vhs/hellomatrix.gif": { 
+    "name": "vhs: hellomatrix",
+    "src": "http://gifsb.in/vhs/hellomatrix.gif",
+    "thumb_src": "http://gifsb.in/vhs/gb-thumb-hellomatrix.png"
+  },
   "vhs/i-see-you.gif": { 
     "name": "vhs: i see you",
     "src": "http://gifsb.in/vhs/i-see-you.gif",
@@ -6350,6 +6395,11 @@
     "name": "wink: wink2",
     "src": "http://gifsb.in/wink/wink2.gif",
     "thumb_src": "http://gifsb.in/wink/gb-thumb-wink2.png"
+  },
+  "wink/xmen-wink.gif": { 
+    "name": "wink: xmen wink",
+    "src": "http://gifsb.in/wink/xmen-wink.gif",
+    "thumb_src": "http://gifsb.in/wink/gb-thumb-xmen-wink.png"
   },
   "winning/breakfast-club-jud-fist-pump.gif": { 
     "name": "winning: breakfast club jud fist pump",
